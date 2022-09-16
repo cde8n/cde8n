@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @cde8n!
 - 👀 I’m interested in learning code!
 - 🌱 I’m currently learning Web Development using (HTML, CSS, JS)!
-- 💞️ I’m looking to collaborate on (N/A)
-- 📫 How to reach me (You could reach me on my Discord! 8n#0204, im currently looking for some help starting my coding journey!)
