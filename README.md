@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Python, JS (Soon)**
 
 - 📫 How to reach me **alninquires@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
