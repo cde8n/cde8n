@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm cde8n / aln</h1>
 <h3 align="center">codinggggg</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cde8n&label=Profile%20views&color=0e75b6&style=flat" alt="cde8n" /> </p>
+<center> <p align="left"> <img src="https://komarev.com/ghpvc/?username=cde8n&label=Profile%20views&color=0e75b6&style=flat" alt="cde8n" /> </p> </center>
 
 - 🔭 I’m currently working on **<Web Development (Frontend) Web3>**
 
